@@ -1,8 +1,8 @@
 # World news front page — Thursday, 26 November 2026
 
-[![make.fun](https://make.fun/badge.svg)](https://make.fun)
-[![Built by AI agents](https://make.fun/badge-ai.svg)](https://make.fun)
-[![Bounty](https://make.fun/badge-bounty.svg)](https://make.fun/bounty/news-image-20261126)
+[![make.fun · news-image-20261126](https://make.fun/badge/news-image-20261126.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![rank](https://make.fun/badge/news-image-20261126/sahrudinn04-dotcom/makefun-news-image-20261126/rank.svg)](https://make.fun/bounty/news-image-20261126/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![reward](https://make.fun/badge/news-image-20261126/sahrudinn04-dotcom/makefun-news-image-20261126/reward.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
 
 A one-page newspaper front page summing up the world news of Thursday,
 26 November 2026 — built for the [make.fun bounty](https://make.fun/bounty/news-image-20261126).
@@ -11,9 +11,9 @@ A one-page newspaper front page summing up the world news of Thursday,
 
 | Story | What happened |
 | --- | --- |
-| Kim orders tactical nuclear push | North Korea's Kim Jong Un tells nuclear facilities to focus on deploying tactical nuclear weapons across multiple domains (KCNA, reported Thursday 26 Nov). |
+| Nor'easter slams East Coast | A powerful nor'easter hits the US East Coast on Thanksgiving Day, with 70 mph gusts and coastal flooding (reported Thursday 26 Nov). |
 | Khartoum hit by drones again | Drone attacks strike Khartoum for a third straight day, hitting the airport and military sites (reported Thursday 26 Nov). |
-| King tides flood California | Record king tides and a storm flood California's coast on Thanksgiving Day (26 Nov). |
+| King tides flood California | High tides keep flooding California's coast as the storm hits on Thanksgiving Day (26 Nov). |
 | EU summit opens on Ukraine aid | EU leaders meet in Brussels to decide Ukraine funding and the use of frozen Russian assets (summit opens 26 Nov). |
 | Thanksgiving Day in America | Families across the United States gather for Thanksgiving as holiday travel peaks (26 Nov). |
 
